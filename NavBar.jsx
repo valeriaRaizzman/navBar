@@ -1,3 +1,15 @@
+/**
+ * NavBar Component
+ *
+ * The NavBar component displays a navigation bar with a title and a list of links.
+ * It can receive an optional prop called `style` to customize the background bar's style.
+ *
+ * @component
+ * @param {object} props - Component properties.
+ * @param {string} [props.style] - CSS class to customize the background bar's style.
+ * @returns {JSX.Element} NavBar Component
+ */
+
 import React from 'react';
 import { navLinks } from '../constant';
 
