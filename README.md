@@ -2,7 +2,7 @@
 
 ![Untitled](https://github.com/valeriaRaizzman/navBar/assets/132442225/e8c74828-3f5f-4881-8743-b095f13df13c)
 
-                                                             Installation
+                                                        INSTALLATION
 
 1. Make sure you have [Node.js](https://nodejs.org) installed on your machine.
 
@@ -13,7 +13,7 @@
 4. Run `npm install` to install the required dependencies.
 
 
-                                                                Usage
+                                                           USAGE
 
 
 1. Import the `NavBar` component into your React application.
