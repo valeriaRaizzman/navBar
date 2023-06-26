@@ -1,2 +1,1 @@
-# navBar
-Blurred, fixed and decorated navbar for your website ⭐
+# Blurred, fixed and decorated navbar using React ⭐
